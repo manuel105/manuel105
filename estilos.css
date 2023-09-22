@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,800&display=swap');
+
+/* font-family: 'Nunito', sans-serif; */
+
+body{
+    background-color: rgb(108, 117, 117);
+    
+}
+
+.uno{
+    background-image: url('./img/header.png');
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+}
+
+.primer_texto{
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+.bg-img{
+    background-image: url(img/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dos{
+    background-image: url(img/textura.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.bg-img-ultimo{
+    background-image: url();
+}
+
+#t_abstractamente{
+    margin-left: -500px;
+    opacity: 0;
+    transition-duration: '1s';
+}
+
+#t_conoce{
+    margin-left: -500px;
+    opacity: 0;
+    transition-duration: '1s';
+}
+
+#redes{
+    margin-left: -500px;
+    opacity: 0;
+    transition-duration: '1s'; 
+}
+
+#proyecto{
+    margin-left: -500px;
+    opacity: 0;
+    transition-duration: '1s'; 
+}
+
+#comotratar{
+
+    opacity: 0;
+    transition-duration: '1s'; 
+}
+
+#general{
+    opacity: 0;
+    transition-duration: '1s'; 
+}
+#esquizofrenia{
+    opacity: 0;
+    transition-duration: '1s'; 
+}
+#sintomas{
+    opacity: 0;
+    transition-duration: '1s'; 
+}
+
+#caru{
+    transform: scale(0);
+    transition-duration: '1s'; 
+
+}
+
+#tarjeta{
+    margin-left: -500px;
+    opacity: 0;
+    transition-duration: '1s'; 
+}
+
+#tarjetaa{
+    margin-right: 500px;
+    opacity: 0;
+    transition-duration: '1s'; 
+}
+#tarjetaaa{
+    margin-right: 500px;
+    opacity: 0;
+    transition-duration: '1s'; 
+}
